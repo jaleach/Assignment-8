@@ -1,0 +1,13 @@
+
+.clock{
+  width: 700px;
+  height: 500px;
+  background-color: green;
+}
+.time{
+  text-align: center;
+  font-size: 42px;
+  line-height: 500px;
+  font-family: 'Lobster', cursive;
+  color: white;
+  }
